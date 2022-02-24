@@ -2,7 +2,6 @@
 
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile, focado nas linguagens Java e Kotlin
-- 🌱 I’m currently learning ...
 
 <a href="https://github.com/SauloGustavoDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauloGustavoDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

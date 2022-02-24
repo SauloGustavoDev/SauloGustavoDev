@@ -2,6 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile, focado nas linguagens Java e Kotlin
+- 📫  Você pode me achar no <a href="https://www.linkedin.com/in/saulo-gustavo-a79262191/">Linkedin</a>
 <div align="center">
 <a href="https://github.com/SauloGustavoDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauloGustavoDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -32,6 +33,6 @@
   <a href = "mailto:saulo0100@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saulo-gustavo-a79262191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/SauloGustavoDev/SauloGustavoDev/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/SauloustavoDev/SauloGustavoDev/blob/output/github-contribution-grid-snake.svg)
+  
 </div>

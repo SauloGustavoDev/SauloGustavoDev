@@ -2,13 +2,13 @@
 
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile, focado nas linguagens Java e Kotlin
-
+<div align="center">
 <a href="https://github.com/SauloGustavoDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauloGustavoDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloGustavoDev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 </div>
-
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Saulo-Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Saulo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -25,7 +25,7 @@
 </div>
 
 ##
-
+<div align="center">
 <div> 
   <a href="https://www.instagram.com/saulo.gst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/saulo0100" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
